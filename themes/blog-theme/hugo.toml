@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/joycembika/the-african-girl'
 languageCode = 'en-US'
-title = 'My New Hugo Site'
+title = 'The Africangirl Media'
 
 [[menus.main]]
 name = 'Home'
